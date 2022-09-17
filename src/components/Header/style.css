@@ -1,0 +1,9 @@
+.app-header-logo {
+    float: left;
+    height: 45px;
+    margin-top: 10px;
+}
+.ant-layout-header {
+background-color: aliceblue !important;
+padding: 0 0 !important;
+}

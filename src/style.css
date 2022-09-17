@@ -1,0 +1,13 @@
+.header {
+    /* background-color: aqua; */
+    border-bottom: 1px solid #ccc;
+}
+.content {
+    background-color: rgb(249, 240, 240);
+    height: 550px;
+    margin: 10px;
+}
+.footer {
+    background-color: darkmagenta;
+    text-align: center;
+}
